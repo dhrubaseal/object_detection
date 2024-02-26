@@ -59,6 +59,9 @@ target/
 # DotEnv configuration
 .env
 
+# Virtual Environment
+.object_detection
+
 # Database
 *.db
 *.rdb
