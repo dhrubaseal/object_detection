@@ -1,4 +1,4 @@
-# path: C:\Personal_Projects\projects\Object Detection\object_detection\data  # dataset root directory
+path: C:\Personal_Projects\projects\Object Detection\object_detection\data  # dataset root directory
 train: C:\Personal_Projects\projects\Object Detection\object_detection\data\train  # train images (relative to 'path')
 val: C:\Personal_Projects\projects\Object Detection\object_detection\data\val  # val images (relative to 'path')
 test: C:\Personal_Projects\projects\Object Detection\object_detection\data\test  # test images (relative to 'path')
