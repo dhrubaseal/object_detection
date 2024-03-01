@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Personal_Projects\projects\Object Detection\object_detection\.object_detection"
+VIRTUAL_ENV="C:\Personal_Projects\projects\Computer Vision\object_detection\.object_detection"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
