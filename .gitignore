@@ -60,7 +60,7 @@ target/
 .env
 
 # Virtual Environment
-.object_detection
+.venv
 
 # Database
 *.db
